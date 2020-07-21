@@ -3,5 +3,5 @@
 
 def parrot(sound = squawk)
   puts "#{sound}"
-  return "squawk!"
+  "squawk!"
 end
